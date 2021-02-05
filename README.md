@@ -4,7 +4,7 @@ FAST SPEED
 CONNECT ALL TKP
 GUNAKAN PSIPHON PRO TRIAL
 
-INSTALL
+# INSTALL
 $ pkg update && pkg upgrade
 $ pkg install python
 $ pkg install git

@@ -1,10 +1,11 @@
 # GameMax
-KUOTA GAMAX
-FAST SPEED
-CONNECT ALL TKP
-GUNAKAN PSIPHON PRO TRIAL
++KUOTA GAMAX
++FAST SPEED
++CONNECT ALL TKP
++GUNAKAN PSIPHON PRO TRIAL
 
 # INSTALL
+```php
 $ pkg update && pkg upgrade
 $ pkg install python
 $ pkg install git
